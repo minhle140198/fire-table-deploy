@@ -1,5 +1,6 @@
 import React, { lazy, Suspense } from "react";
 import { Route, Switch } from "react-router-dom";
+import { HashRouter } from 'react-router-dom';
 
 import {
   MuiThemeProvider as ThemeProvider,
